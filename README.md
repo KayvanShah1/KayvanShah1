@@ -30,7 +30,7 @@ I am also a graduate student at the University of Southern California pursuing a
 <br/>
 <div style="display: flex;" align="center"> 
     <img align="center"
-        src="https://github-profile-trophy.vercel.app/?username=KayvanShah1"
+        src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=5"
         style="margin: 20px; padding: 0 4px;"
         alt="KayvanShah1" />
 </div>
@@ -74,7 +74,7 @@ No activity tracked
 
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 06:43:30 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 06:58:06 GMT+0000 (Coordinated Universal Time)<br />
 </p>
 
 <p align="center">
