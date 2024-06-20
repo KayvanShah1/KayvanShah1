@@ -1,6 +1,8 @@
 ![Header](static/github-header-image-old.png)
+
 <!-- <h1 align="center">Hi 👋, I'm Kayvan</h1>
 <h2 align="center">Data Engineer | AI, Data Science &amp; Cloud Computing enthusiast</h2> -->
+
 <h4>I am passionate about working on solutions that integrates software technologies with existing solutions in various industries making them efficient and easy to use. I have often enjoyed working up, building things from scratch, and taking that forward to a monetizable real-world product.
 
 I am also a graduate student at the University of Southern California pursuing a Master&#39;s in Applied Data Science.</h4>
@@ -23,6 +25,14 @@ I am also a graduate student at the University of Southern California pursuing a
           style="margin: 20px; padding: 0 4px;"
           src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" 
           alt="languages" />
+</div>
+
+<br/>
+<div style="display: flex;" align="center"> 
+    <img align="center"
+        src="https://github-profile-trophy.vercel.app/?username=KayvanShah1"
+        style="margin: 20px; padding: 0 4px;"
+        alt="KayvanShah1" />
 </div>
 
 <!-- TECHNOLOGIES -->
@@ -57,19 +67,19 @@ I am also a graduate student at the University of Southern California pursuing a
 
 <!-- FOOTER -->
 <!--START_SECTION:waka-->
-
-```txt
+```text
 No activity tracked
 ```
+<!--END_SECTION:waka -->
 
-<!--END_SECTION:waka-->
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 01:08:18 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 06:43:30 GMT+0000 (Coordinated Universal Time)<br />
 </p>
-<!-- <p align="center">
+
+<p align="center">
     <img src="https://github.com/KayvanShah1/KayvanShah1/workflows/README%20build/badge.svg" /> 
     <img alt="Stars" src="https://img.shields.io/github/stars/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/> 
     <img alt="Forks" src="https://img.shields.io/github/forks/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/>
-</p> -->
+</p>
 
