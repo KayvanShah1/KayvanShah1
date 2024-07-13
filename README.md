@@ -35,6 +35,9 @@ Currently, I am pursuing a Master’s in Applied Data Science at the University 
         alt="KayvanShah1" />
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka -->
+
 <!-- TECHNOLOGIES -->
 <h3>:zap: Technologies</h3>
 
@@ -46,14 +49,16 @@ Currently, I am pursuing a Master’s in Applied Data Science at the University 
 <h3>:milky_way: Find me</h3>
 
 <p align="center">
-    <a href="https://github.com/KayvanShah1" target="_blank">
+    <a href="https://www.linkedin.com/in/kayvanshah999/" target="_blank">
+        <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+    </a><a href="https://github.com/KayvanShah1" target="_blank">
         <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
     </a><a href="https://gitlab.com/kayvanshah1" target="_blank">
         <img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" />
-    </a><a href="https://www.linkedin.com/in/kayvanshah999/" target="_blank">
-        <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
     </a><a href="https://www.kaggle.com/kayvanshah" target="_blank">
-        <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=Kaggle&amp;logoColor=whitee" />
+        <img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&amp;logo=Kaggle&amp;logoColor=white" />
+    </a><a href="https://stackoverflow.com/users/12639940/kayvan-shah" target="_blank">
+        <img alt="stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&amp;logo=stack-overflow&amp;logoColor=white" />
     </a>
 </p>
 
@@ -65,21 +70,13 @@ Currently, I am pursuing a Master’s in Applied Data Science at the University 
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
 </p>
 
-<!-- FOOTER -->
-<!--START_SECTION:waka-->
-```text
-No activity tracked
-```
-<!--END_SECTION:waka -->
-
-<p align="center">
-    This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 01:11:55 GMT+0000 (Coordinated Universal Time)<br />
-</p>
-
 <p align="center">
     <img src="https://github.com/KayvanShah1/KayvanShah1/actions/workflows/main.yml/badge.svg" /> 
     <img alt="Stars" src="https://img.shields.io/github/stars/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/> 
     <img alt="Forks" src="https://img.shields.io/github/forks/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/>
 </p>
 
+<p align="center">
+    This <i>README</i> file is generated <b>every 24 hours</b>!</br>
+    Last refresh: 08:42:48 GMT+0000 (Coordinated Universal Time)<br />
+</p>
