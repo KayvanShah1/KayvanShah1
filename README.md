@@ -3,9 +3,9 @@
 <!-- <h1 align="center">Hi 👋, I'm Kayvan</h1>
 <h2 align="center">Data Engineer | AI, Data Science &amp; Cloud Computing enthusiast</h2> -->
 
-<h4>I am passionate about working on solutions that integrates software technologies with existing solutions in various industries making them efficient and easy to use. I have often enjoyed working up, building things from scratch, and taking that forward to a monetizable real-world product.
+<h4>I am deeply passionate about integrating cutting-edge software technologies into existing industry solutions, making them more efficient and user-friendly. I thrive on the challenge of building systems from the ground up and transforming them into monetizable, real-world products.
 
-I am also a graduate student at the University of Southern California pursuing a Master&#39;s in Applied Data Science.</h4>
+Currently, I am pursuing a Master’s in Applied Data Science at the University of Southern California, where I continue to hone my skills and drive my commitment to innovative problem-solving.</h4>
 
 ### 📈 My GitHub Stats
 <div style="display: flex;" align="center">
