@@ -8,7 +8,8 @@
 I’m passionate about integrating cutting-edge software technologies into real-world solutions, making them more efficient, scalable, and user-friendly. I thrive on building systems from the ground up, optimizing them for impact, and transforming ideas into monetizable, high-performance products.</h4>
 
 ### 🚀 What I Do
-<h4>- Architect scalable data pipelines that power AI and analytics.
+<h4>
+- Architect scalable data pipelines that power AI and analytics.
 
 - Optimize ML and MLOps workflows for seamless deployment.
 
@@ -24,12 +25,12 @@ I’m passionate about integrating cutting-edge software technologies into real-
 <div style="display: flex;" align="center">
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
-          alt="kayvanshah" />
+          src="https://streak-stats.demolab.com/?user=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
+          alt="GitHub Streak" />
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
           src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
-          alt="kayvanshah" />
+          alt="GitHub Stats" />
 </div>
 
 <br/>
@@ -45,7 +46,7 @@ I’m passionate about integrating cutting-edge software technologies into real-
     <img align="center"
         src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=-1"
         style="margin: 20px; padding: 0 4px;"
-        alt="KayvanShah1" />
+        alt="Trophies" />
 </div>
 
 <!--START_SECTION:waka-->
@@ -94,5 +95,5 @@ I’m passionate about integrating cutting-edge software technologies into real-
 
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 17:58:29 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 18:05:56 GMT+0000 (Coordinated Universal Time)<br />
 </p>
