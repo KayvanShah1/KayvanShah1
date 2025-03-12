@@ -1,4 +1,4 @@
-![Header](static/github-header-image-old.png)
+![Header](static/github-header-image.png)
 
 <!-- <h1 align="center">👋Hey, I'm Kayvan</h1>
 <h2 align="center">Data and ML Engineer | AI, Data Science &amp; Cloud Computing | NLP</h2> -->
@@ -95,5 +95,5 @@ I’m passionate about integrating cutting-edge software technologies into real-
 
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 18:05:56 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 18:07:43 GMT+0000 (Coordinated Universal Time)<br />
 </p>
