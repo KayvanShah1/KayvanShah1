@@ -1,7 +1,7 @@
 ![Header](static/github-header-image-old.png)
 
-<h1 align="center">👋Hey, I'm Kayvan</h1>
-<h2 align="center">Data and ML Engineer | AI, Data Science &amp; Cloud Computing | NLP</h2>
+<!-- <h1 align="center">👋Hey, I'm Kayvan</h1>
+<h2 align="center">Data and ML Engineer | AI, Data Science &amp; Cloud Computing | NLP</h2> -->
 
 <h4>I engineer scalable data solutions that power intelligent decision-making. With a passion for data engineering, MLOps, and AI, I specialize in building resilient pipelines, orchestrating infrastructure, and optimizing machine learning workflows to bridge the gap between raw data and actionable insights.
 
@@ -9,16 +9,16 @@ I’m passionate about integrating cutting-edge software technologies into real-
 
 ### 🚀 What I Do
 <h4>- Architect scalable data pipelines that power AI and analytics.
+
 - Optimize ML and MLOps workflows for seamless deployment.
+
 - Implement cloud-native solutions for automation and efficiency.
+
 - Design retrieval and search systems to enhance knowledge accessibility.
 </h4>
 
 ### 💡 Recent Work
 <h4>Currently exploring LLM fine-tuning and retrieval techniques to improve AI-driven content discovery.</h4>
-
-### 🎯 Always Open to Discussions
-<h4>I enjoy solving complex data challenges and collaborating on innovative projects. Let’s connect!</h4>
 
 ### 📈 My GitHub Stats
 <div style="display: flex;" align="center">
@@ -75,6 +75,9 @@ I’m passionate about integrating cutting-edge software technologies into real-
     </a>
 </p>
 
+### 🎯 Always Open to Discussions
+<h4>I enjoy solving complex data challenges and collaborating on innovative projects. Let’s connect!</h4>
+
 <hr />
 
 <!-- GitHub profile viewers and visitors -->
@@ -91,5 +94,5 @@ I’m passionate about integrating cutting-edge software technologies into real-
 
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 17:53:33 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 17:58:29 GMT+0000 (Coordinated Universal Time)<br />
 </p>
