@@ -1,11 +1,24 @@
 ![Header](static/github-header-image-old.png)
 
-<!-- <h1 align="center">Hi 👋, I'm Kayvan</h1>
-<h2 align="center">Data Engineer | AI, Data Science &amp; Cloud Computing enthusiast</h2> -->
+<h1 align="center">👋Hey, I'm Kayvan</h1>
+<h2 align="center">Data and ML Engineer | AI, Data Science &amp; Cloud Computing | NLP</h2>
 
-<h4>I am deeply passionate about integrating cutting-edge software technologies into existing industry solutions, making them more efficient and user-friendly. I thrive on the challenge of building systems from the ground up and transforming them into monetizable, real-world products.
+<h4>I engineer scalable data solutions that power intelligent decision-making. With a passion for data engineering, MLOps, and AI, I specialize in building resilient pipelines, orchestrating infrastructure, and optimizing machine learning workflows to bridge the gap between raw data and actionable insights.
 
-Currently, I am pursuing a Master’s in Applied Data Science at the University of Southern California, where I continue to hone my skills and drive my commitment to innovative problem-solving.</h4>
+I’m passionate about integrating cutting-edge software technologies into real-world solutions, making them more efficient, scalable, and user-friendly. I thrive on building systems from the ground up, optimizing them for impact, and transforming ideas into monetizable, high-performance products.</h4>
+
+### 🚀 What I Do
+<h4>- Architect scalable data pipelines that power AI and analytics.
+- Optimize ML and MLOps workflows for seamless deployment.
+- Implement cloud-native solutions for automation and efficiency.
+- Design retrieval and search systems to enhance knowledge accessibility.
+</h4>
+
+### 💡 Recent Work
+<h4>Currently exploring LLM fine-tuning and retrieval techniques to improve AI-driven content discovery.</h4>
+
+### 🎯 Always Open to Discussions
+<h4>I enjoy solving complex data challenges and collaborating on innovative projects. Let’s connect!</h4>
 
 ### 📈 My GitHub Stats
 <div style="display: flex;" align="center">
@@ -78,5 +91,5 @@ Currently, I am pursuing a Master’s in Applied Data Science at the University 
 
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 01:24:55 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 17:53:33 GMT+0000 (Coordinated Universal Time)<br />
 </p>
