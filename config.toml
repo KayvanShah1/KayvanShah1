@@ -8,8 +8,11 @@ I’m passionate about integrating cutting-edge software technologies into real-
 
 what_i_do = """
 - Architect scalable data pipelines that power AI and analytics.
+
 - Optimize ML and MLOps workflows for seamless deployment.
+
 - Implement cloud-native solutions for automation and efficiency.
+
 - Design retrieval and search systems to enhance knowledge accessibility.
 """
 recent_work = """Currently exploring LLM fine-tuning and retrieval techniques to improve AI-driven content discovery."""
