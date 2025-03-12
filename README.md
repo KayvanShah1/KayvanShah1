@@ -7,9 +7,8 @@
 
 I’m passionate about integrating cutting-edge software technologies into real-world solutions, making them more efficient, scalable, and user-friendly. I thrive on building systems from the ground up, optimizing them for impact, and transforming ideas into monetizable, high-performance products.</h4>
 
-### 🚀 What I Do
-<h4>
-- Architect scalable data pipelines that power AI and analytics.
+#### 🚀 What I Do
+<h4>- Architect scalable data pipelines that power AI and analytics.
 
 - Optimize ML and MLOps workflows for seamless deployment.
 
@@ -18,7 +17,7 @@ I’m passionate about integrating cutting-edge software technologies into real-
 - Design retrieval and search systems to enhance knowledge accessibility.
 </h4>
 
-### 💡 Recent Work
+#### 💡 Recent Work
 <h4>Currently exploring LLM fine-tuning and retrieval techniques to improve AI-driven content discovery.</h4>
 
 ### 📈 My GitHub Stats
@@ -95,5 +94,5 @@ I’m passionate about integrating cutting-edge software technologies into real-
 
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 18:07:43 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 20:57:42 GMT+0000 (Coordinated Universal Time)<br />
 </p>
