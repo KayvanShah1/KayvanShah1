@@ -3,24 +3,23 @@
 <!-- <h1 align="center">👋Hey, I'm Kayvan</h1>
 <h2 align="center">Data and ML Engineer | AI, Data Science &amp; Cloud Computing | NLP</h2> -->
 
-<h4>I build data systems that behave well under real-world pressure. My work sits at the intersection of data engineering, machine learning, and cloud infrastructure, where correctness, reliability, and scale matter more than demos. I have designed and operated production pipelines that ingest messy, delayed, and heterogeneous data, then turn it into decision-ready signals for analytics, risk modeling, and AI systems.
+<h4>I build data and ML systems that do not fall apart in production.
 
-My strength lies in bridging layers that are usually siloed. I move comfortably from ingestion and orchestration to modeling, retrieval, and deployment. This lets me build systems that do not just move data, but support learning loops, monitoring, and iteration over time. I care deeply about data quality, system boundaries, and failure modes, because that is where most ML systems break in practice.
+Most of my work sits where theory meets messy reality. Late data, broken APIs, shifting schemas, and models that need to be retrained without drama. I design pipelines and ML systems that expect these problems and keep working anyway.
 
-I enjoy building from first principles, documenting tradeoffs, and turning ambiguous problem statements into robust, monetizable platforms. The goal is always the same: reduce complexity for users while increasing leverage for the business.</h4>
+I operate across data engineering, MLOps, and applied ML so I can own the full lifecycle. From ingestion and transformations to training, deployment, and monitoring. My bias is toward correctness, observability, and simple designs that scale with time, not complexity.</h4>
 
 #### 🚀 What I Do
-<h4>I design and ship scalable data pipelines that power analytics, machine learning, and AI products in production environments. This includes stateful ingestion, overlap-safe incremental processing, and data models that hold up under long time horizons and schema drift.
+<h4>I design and run data pipelines that power analytics, ML, and AI products in production.
 
-I build and optimize ML and MLOps workflows with an emphasis on deployment realism. That means reproducibility, monitoring, retraining hooks, and clear separation between data, models, and serving layers so systems evolve without breaking.
+I build ML and MLOps workflows that are reproducible, deployable, and easy to operate long after the first release.
 
-I work extensively with cloud-native infrastructure to automate orchestration, provisioning, and CI/CD. The focus is on systems that are observable, cost-aware, and easy to operate by teams beyond the original author.
+I use cloud infrastructure to automate orchestration, CI/CD, and system boundaries so teams spend less time fixing pipelines and more time using them.
 
-I also design retrieval, search, and embedding-driven systems that improve how teams and products access knowledge. This includes semantic search, RAG pipelines, and domain-adapted representations that connect unstructured data to real use cases.
-</h4>
+I also build retrieval and search systems with embeddings and RAG to make large, unstructured data usable.</h4>
 
 #### 💡 Recent Work
-<h4>Recently, I have been focused on large language model fine-tuning and retrieval architectures, with an emphasis on grounding, evaluation, and operational reliability. I am exploring how domain-specific embeddings, overlap-aware ingestion, and structured metadata improve content discovery and reasoning quality in real systems, not just benchmarks.</h4>
+<h4>Currently working on LLM fine-tuning and retrieval pipelines, with a focus on domain-specific embeddings, grounding, and evaluation for real-world use.</h4>
 
 ### 📈 My GitHub Stats
 <div style="display: flex;" align="center">
@@ -96,5 +95,5 @@ I also design retrieval, search, and embedding-driven systems that improve how t
 
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 09:55:53 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 10:03:53 GMT+0000 (Coordinated Universal Time)<br />
 </p>
