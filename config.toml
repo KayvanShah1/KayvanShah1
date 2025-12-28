@@ -22,119 +22,6 @@ city = "Los Angeles, California"
 country = "United States"
 logo = "https://www.flaticon.com/svg/static/icons/svg/330/330176.svg"
 
-# ================= CORE =================
-[technologies]
-
-[[technologies.core]]
-name = "Python"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-
-[[technologies.core]]
-name = "SQL"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-
-[[technologies.core]]
-name = "Git"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-
-[[technologies.core]]
-name = "Docker"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
-
-
-# ================= DATA & ML =================
-[[technologies.data]]
-name = "dbt"
-logo = "https://raw.githubusercontent.com/dbt-labs/dbt-brand/master/logos/dbt-logo.svg"
-
-[[technologies.data]]
-name = "Dagster"
-logo = "https://raw.githubusercontent.com/dagster-io/dagster/master/docs/static/dagster-logo.svg"
-
-[[technologies.data]]
-name = "Airflow"
-logo = "https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow-logo.png"
-
-[[technologies.data]]
-name = "BigQuery"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
-
-[[technologies.data]]
-name = "DuckDB"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg"
-
-[[technologies.data]]
-name = "Spark"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"
-
-[[technologies.data]]
-name = "scikit-learn"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
-
-[[technologies.data]]
-name = "PyTorch"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
-
-[[technologies.data]]
-name = "LangChain"
-logo = "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg"
-
-
-# ================= BACKEND =================
-[[technologies.cloud]]
-name = "FastAPI"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
-
-[[technologies.cloud]]
-name = "PostgreSQL"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
-
-[[technologies.cloud]]
-name = "Redis"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
-
-[[technologies.cloud]]
-name = "REST APIs"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-
-
-# ================= CLOUD & INFRA =================
-[[technologies.cloud]]
-name = "AWS"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
-
-[[technologies.cloud]]
-name = "GCP"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
-
-[[technologies.cloud]]
-name = "Terraform"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
-
-[[technologies.cloud]]
-name = "Kubernetes"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
-
-
-# ================= FRONTEND =================
-[[technologies.other]]
-name = "React"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-
-[[technologies.other]]
-name = "Next.js"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-
-[[technologies.other]]
-name = "TypeScript"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-
-[[technologies.other]]
-name = "Tailwind CSS"
-logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
-
-
-
 [[social]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/kayvanshah999/"
@@ -159,3 +46,29 @@ logo = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kagg
 name = "stackoverflow"
 url = "https://stackoverflow.com/users/12639940/kayvan-shah"
 logo = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+
+[technologies]
+python = "https://img.shields.io/badge/Python-black?logo=python&amp;style=plastic"   
+numpy = "https://img.shields.io/badge/NumPy-black?logo=numpy&amp;style=plastic" 
+pandas = "https://img.shields.io/badge/Pandas-black?logo=pandas&amp;style=plastic"
+plotly = "https://img.shields.io/badge/Plotly-black?logo=plotly&amp;style=plastic"
+folium = "https://img.shields.io/badge/Folium-black?logo=folium&amp;style=plastic"
+scikit-learn = "https://img.shields.io/badge/Scikit%20Learn-black?logo=scikit-learn&amp;style=plastic" 
+tensorflow = "https://img.shields.io/badge/Tensorflow-black?logo=tensorflow&amp;style=plastic"
+opencv = "https://img.shields.io/badge/OpenCV-black?logo=opencv&amp;style=plastic"
+pytorch = "https://img.shields.io/badge/Pytorch-black?logo=pytorch&amp;style=plastic" 
+fastapi = "https://img.shields.io/badge/FastAPI-black?logo=fastapi&amp;style=plastic"
+selenium = "https://img.shields.io/badge/Selenium-black?logo=selenium&amp;style=plastic" 
+javascript = "https://img.shields.io/badge/JavaScript-black?logo=javascript&amp;style=plastic"
+mysql = "https://img.shields.io/badge/MySQL-black?logo=mysql&amp;style=plastic"
+postgresql = "https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&amp;style=plastic"
+mongodb = "https://img.shields.io/badge/MongoDB-black?logo=mongodb&amp;style=plastic"
+elasticsearch = "https://img.shields.io/badge/Elasticsearch-black?logo=elasticsearch&amp;style=plastic"
+kibana = "https://img.shields.io/badge/Kibana-black?logo=kibana&amp;style=plastic" 
+git = "https://img.shields.io/badge/Git-black?logo=git&amp;style=plastic" 
+docker = "https://img.shields.io/badge/Docker-black?logo=docker&amp;style=plastic" 
+kubernetes = "https://img.shields.io/badge/Kubernetes-black?logo=kubernetes&amp;style=plastic"
+terraform = "https://img.shields.io/badge/Terraform-black?logo=terraform&amp;style=plastic"
+github-actions = "https://img.shields.io/badge/Github%20Actions-black?logo=github-actions&amp;style=plastic" 
+google-cloud-platform = "https://img.shields.io/badge/GCP-black?logo=google-cloud&amp;style=plastic" 
+amazon-aws = "https://img.shields.io/badge/AWS-black?logo=amazon-aws&amp;style=plastic" 

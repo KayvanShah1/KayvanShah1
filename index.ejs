@@ -24,53 +24,47 @@ _Pinned repositories below reflect the work above._
 
 ## Stack
 
-**Core**  
 <p>
-  <% technologies.core.forEach((tech) => { %>
-    <img alt="<%= tech.name %>" src="<%= tech.logo %>" height="28" style="margin: 4px;" />
-  <% }); %>
+    <% for(const [name, logo] of Object.entries(technologies)) { %><img alt="<%= name %>" src="<%= logo %>" /> <% } %>
 </p>
-
-**Data & ML**  
-<p>
-  <% technologies.data.forEach((tech) => { %>
-    <img alt="<%= tech.name %>" src="<%= tech.logo %>" height="28" style="margin: 4px;" />
-  <% }); %>
-</p>
-
-**Cloud & Infra**  
-<p>
-  <% technologies.cloud.forEach((tech) => { %>
-    <img alt="<%= tech.name %>" src="<%= tech.logo %>" height="28" style="margin: 4px;" />
-  <% }); %>
-</p>
-
-<details>
-  <summary>More (Frontend)</summary>
-  <p>
-    <% technologies.other.forEach((tech) => { %>
-      <img alt="<%= tech.name %>" src="<%= tech.logo %>" height="28" style="margin: 4px;" />
-    <% }); %>
-  </p>
-</details>
 
 ## GitHub Activity
-<div align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=KayvanShah1&count_private=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+<div style="display: flex;" align="center">
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://streak-stats.demolab.com/?user=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
+          alt="GitHub Streak" />
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="GitHub Stats" />
 </div>
 
-<details>
-  <summary>More stats</summary>
-  <br/>
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&theme=tokyonight&hide_border=true&layout=compact" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=-1" />
-  <!--START_SECTION:waka--><!--END_SECTION:waka-->
-</details>
+<br/>
+<div style="display: flex;" align="center">
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" 
+          alt="languages" />
+</div>
+
+<br/>
+<div style="display: flex;" align="center"> 
+    <img align="center"
+        src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=-1"
+        style="margin: 20px; padding: 0 4px;"
+        alt="Trophies" />
+</div>
 
 ## Open To
 **<%= meta.cta %>**
+
+<hr />
+
+<p align="center">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
@@ -79,6 +73,6 @@ _Pinned repositories below reflect the work above._
 </p>
 
 <p align="center">
-  This README is generated every 24 hours.<br/>
+  This <i>README</i> is generated <b>every 24 hours</b>!<br/>
   Last refresh: <%= lastRunOn %>
 </p>
