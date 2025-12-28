@@ -3,22 +3,24 @@
 <!-- <h1 align="center">👋Hey, I'm Kayvan</h1>
 <h2 align="center">Data and ML Engineer | AI, Data Science &amp; Cloud Computing | NLP</h2> -->
 
-<h4>I engineer scalable data solutions that power intelligent decision-making. With a passion for data engineering, MLOps, and AI, I specialize in building resilient pipelines, orchestrating infrastructure, and optimizing machine learning workflows to bridge the gap between raw data and actionable insights.
+<h4>I build data systems that behave well under real-world pressure. My work sits at the intersection of data engineering, machine learning, and cloud infrastructure, where correctness, reliability, and scale matter more than demos. I have designed and operated production pipelines that ingest messy, delayed, and heterogeneous data, then turn it into decision-ready signals for analytics, risk modeling, and AI systems.
 
-I’m passionate about integrating cutting-edge software technologies into real-world solutions, making them more efficient, scalable, and user-friendly. I thrive on building systems from the ground up, optimizing them for impact, and transforming ideas into monetizable, high-performance products.</h4>
+My strength lies in bridging layers that are usually siloed. I move comfortably from ingestion and orchestration to modeling, retrieval, and deployment. This lets me build systems that do not just move data, but support learning loops, monitoring, and iteration over time. I care deeply about data quality, system boundaries, and failure modes, because that is where most ML systems break in practice.
+
+I enjoy building from first principles, documenting tradeoffs, and turning ambiguous problem statements into robust, monetizable platforms. The goal is always the same: reduce complexity for users while increasing leverage for the business.</h4>
 
 #### 🚀 What I Do
-<h4>- Architect scalable data pipelines that power AI and analytics.
+<h4>I design and ship scalable data pipelines that power analytics, machine learning, and AI products in production environments. This includes stateful ingestion, overlap-safe incremental processing, and data models that hold up under long time horizons and schema drift.
 
-- Optimize ML and MLOps workflows for seamless deployment.
+I build and optimize ML and MLOps workflows with an emphasis on deployment realism. That means reproducibility, monitoring, retraining hooks, and clear separation between data, models, and serving layers so systems evolve without breaking.
 
-- Implement cloud-native solutions for automation and efficiency.
+I work extensively with cloud-native infrastructure to automate orchestration, provisioning, and CI/CD. The focus is on systems that are observable, cost-aware, and easy to operate by teams beyond the original author.
 
-- Design retrieval and search systems to enhance knowledge accessibility.
+I also design retrieval, search, and embedding-driven systems that improve how teams and products access knowledge. This includes semantic search, RAG pipelines, and domain-adapted representations that connect unstructured data to real use cases.
 </h4>
 
 #### 💡 Recent Work
-<h4>Currently exploring LLM fine-tuning and retrieval techniques to improve AI-driven content discovery.</h4>
+<h4>Recently, I have been focused on large language model fine-tuning and retrieval architectures, with an emphasis on grounding, evaluation, and operational reliability. I am exploring how domain-specific embeddings, overlap-aware ingestion, and structured metadata improve content discovery and reasoning quality in real systems, not just benchmarks.</h4>
 
 ### 📈 My GitHub Stats
 <div style="display: flex;" align="center">
@@ -94,5 +96,5 @@ I’m passionate about integrating cutting-edge software technologies into real-
 
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 01:59:54 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 09:55:53 GMT+0000 (Coordinated Universal Time)<br />
 </p>
