@@ -17,6 +17,10 @@ now = [
 
 cta = "Open to Data Engineering, MLOps, and Platform roles (US, Remote/Hybrid). Best reached via LinkedIn or email."
 
+[meta.location]
+city = "Los Angeles, California"
+country = "United States"
+logo = "https://www.flaticon.com/svg/static/icons/svg/330/330176.svg"
 
 # ================= CORE =================
 [technologies]
@@ -129,10 +133,7 @@ logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescri
 name = "Tailwind CSS"
 logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
 
-[meta.location]
-city = "Los Angeles, California"
-country = "United States"
-logo = "https://www.flaticon.com/svg/static/icons/svg/330/330176.svg"
+
 
 [[social]]
 name = "linkedin"

@@ -4,13 +4,13 @@
   <h2><%= meta.headline %></h2>
   <p><strong><%= meta.differentiator %></strong></p>
   <p><%= meta.focus %></p>
-
-  <p>
-    <% social.slice(0, 4).forEach(({ name, url, logo }) => { %>
-      <a href="<%= url %>" target="_blank"><img alt="<%= name %>" src="<%= logo %>" /></a>
-    <% }); %>
-  </p>
 </div>
+
+<p align="center">
+    <% for(const { name, url, logo } of social) { %><a href="<%= url %>" target="_blank">
+        <img alt="<%= name %>" src="<%= logo %>" />
+    </a><% } %>
+</p>
 
 ## What I’m Known For
 <% meta.known_for.forEach((item) => { %>- <%= item %>
@@ -26,28 +26,33 @@ _Pinned repositories below reflect the work above._
 
 **Core**  
 <p>
-  <% technologies.core.forEach((tech) => { %><img alt="<%= tech.name %>" src="<%= tech.logo %>" /> <% }); %>
+  <% technologies.core.forEach((tech) => { %>
+    <img alt="<%= tech.name %>" src="<%= tech.logo %>" height="28" style="margin: 4px;" />
+  <% }); %>
 </p>
 
 **Data & ML**  
 <p>
-  <% technologies.data.forEach((tech) => { %><img alt="<%= tech.name %>" src="<%= tech.logo %>" /> <% }); %>
+  <% technologies.data.forEach((tech) => { %>
+    <img alt="<%= tech.name %>" src="<%= tech.logo %>" height="28" style="margin: 4px;" />
+  <% }); %>
 </p>
 
 **Cloud & Infra**  
 <p>
-  <% technologies.cloud.forEach((tech) => { %><img alt="<%= tech.name %>" src="<%= tech.logo %>" /> <% }); %>
+  <% technologies.cloud.forEach((tech) => { %>
+    <img alt="<%= tech.name %>" src="<%= tech.logo %>" height="28" style="margin: 4px;" />
+  <% }); %>
 </p>
 
 <details>
   <summary>More (Frontend)</summary>
   <p>
-    <% technologies.other.forEach((tech) => { %><img alt="<%= tech.name %>" src="<%= tech.logo %>" /> <% }); %>
+    <% technologies.other.forEach((tech) => { %>
+      <img alt="<%= tech.name %>" src="<%= tech.logo %>" height="28" style="margin: 4px;" />
+    <% }); %>
   </p>
 </details>
-
-<br/>
-<hr/>
 
 ## GitHub Activity
 <div align="center">
