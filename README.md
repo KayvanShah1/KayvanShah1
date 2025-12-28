@@ -3,23 +3,25 @@
 <!-- <h1 align="center">👋Hey, I'm Kayvan</h1>
 <h2 align="center">Data and ML Engineer | AI, Data Science &amp; Cloud Computing | NLP</h2> -->
 
-<h4>I build data and ML systems that do not fall apart in production.
+I build data and ML systems that do not fall apart in production.
 
-Most of my work sits where theory meets messy reality. Late data, broken APIs, shifting schemas, and models that need to be retrained without drama. I design pipelines and ML systems that expect these problems and keep working anyway.
+Most of my work sits where theory meets messy reality. Late data, broken APIs, shifting schemas, and models that need to be retrained without drama. I design pipelines and ML systems that anticipate these problems and continue to work anyway.
 
-I operate across data engineering, MLOps, and applied ML so I can own the full lifecycle. From ingestion and transformations to training, deployment, and monitoring. My bias is toward correctness, observability, and simple designs that scale with time, not complexity.</h4>
+I operate across data engineering, MLOps, and applied ML, so I can own the full lifecycle. From ingestion and transformations to training, deployment, and monitoring. My bias is toward correctness, observability, and simple designs that scale with time, not complexity.
+
 
 #### 🚀 What I Do
-<h4>I design and run data pipelines that power analytics, ML, and AI products in production.
+I design and run data pipelines that power analytics, ML, and AI products in production.
 
 I build ML and MLOps workflows that are reproducible, deployable, and easy to operate long after the first release.
 
-I use cloud infrastructure to automate orchestration, CI/CD, and system boundaries so teams spend less time fixing pipelines and more time using them.
+I utilize cloud infrastructure to automate orchestration, CI/CD, and system boundaries, enabling teams to spend less time fixing pipelines and more time utilizing them.
 
-I also build retrieval and search systems with embeddings and RAG to make large, unstructured data usable.</h4>
+I also build retrieval and search systems with embeddings and RAG to make large, unstructured data usable.
+
 
 #### 💡 Recent Work
-<h4>Currently working on LLM fine-tuning and retrieval pipelines, with a focus on domain-specific embeddings, grounding, and evaluation for real-world use.</h4>
+Currently working on LLM fine-tuning and retrieval pipelines, with a focus on domain-specific embeddings, grounding, and evaluation for real-world use.
 
 ### 📈 My GitHub Stats
 <div style="display: flex;" align="center">
@@ -95,5 +97,6 @@ I also build retrieval and search systems with embeddings and RAG to make large,
 
 <p align="center">
     This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: 10:03:53 GMT+0000 (Coordinated Universal Time)<br />
+    Last refresh: 10:08:01 GMT+0000 (Coordinated Universal Time)<br />
 </p>
+
