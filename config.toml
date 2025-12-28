@@ -128,3 +128,33 @@ logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescri
 [[technologies.other]]
 name = "Tailwind CSS"
 logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+
+[meta.location]
+city = "Los Angeles, California"
+country = "United States"
+logo = "https://www.flaticon.com/svg/static/icons/svg/330/330176.svg"
+
+[[social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/kayvanshah999/"
+logo = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+
+[[social]]
+name = "github"
+url = "https://github.com/KayvanShah1"
+logo = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+
+[[social]]
+name = "gitlab"
+url = "https://gitlab.com/kayvanshah1"
+logo = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
+
+[[social]]
+name = "kaggle"
+url = "https://www.kaggle.com/kayvanshah"
+logo = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
+
+[[social]]
+name = "stackoverflow"
+url = "https://stackoverflow.com/users/12639940/kayvan-shah"
+logo = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
