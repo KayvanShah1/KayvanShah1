@@ -2,20 +2,21 @@
 firstName = "Kayvan"
 lastName = "Shah"
 role = "Data and ML Engineer | AI, Data Science & Cloud Computing | NLP"
-about = """I engineer scalable data solutions that power intelligent decision-making. With a passion for data engineering, MLOps, and AI, I specialize in building resilient pipelines, orchestrating infrastructure, and optimizing machine learning workflows to bridge the gap between raw data and actionable insights.
+about = """I build data systems that behave well under real-world pressure. My work sits at the intersection of data engineering, machine learning, and cloud infrastructure, where correctness, reliability, and scale matter more than demos. I have designed and operated production pipelines that ingest messy, delayed, and heterogeneous data, then turn it into decision-ready signals for analytics, risk modeling, and AI systems.
 
-I’m passionate about integrating cutting-edge software technologies into real-world solutions, making them more efficient, scalable, and user-friendly. I thrive on building systems from the ground up, optimizing them for impact, and transforming ideas into monetizable, high-performance products."""
+My strength lies in bridging layers that are usually siloed. I move comfortably from ingestion and orchestration to modeling, retrieval, and deployment. This lets me build systems that do not just move data, but support learning loops, monitoring, and iteration over time. I care deeply about data quality, system boundaries, and failure modes, because that is where most ML systems break in practice.
 
-what_i_do = """
-- Architect scalable data pipelines that power AI and analytics.
+I enjoy building from first principles, documenting tradeoffs, and turning ambiguous problem statements into robust, monetizable platforms. The goal is always the same: reduce complexity for users while increasing leverage for the business."""
 
-- Optimize ML and MLOps workflows for seamless deployment.
+what_i_do = """I design and ship scalable data pipelines that power analytics, machine learning, and AI products in production environments. This includes stateful ingestion, overlap-safe incremental processing, and data models that hold up under long time horizons and schema drift.
 
-- Implement cloud-native solutions for automation and efficiency.
+I build and optimize ML and MLOps workflows with an emphasis on deployment realism. That means reproducibility, monitoring, retraining hooks, and clear separation between data, models, and serving layers so systems evolve without breaking.
 
-- Design retrieval and search systems to enhance knowledge accessibility.
+I work extensively with cloud-native infrastructure to automate orchestration, provisioning, and CI/CD. The focus is on systems that are observable, cost-aware, and easy to operate by teams beyond the original author.
+
+I also design retrieval, search, and embedding-driven systems that improve how teams and products access knowledge. This includes semantic search, RAG pipelines, and domain-adapted representations that connect unstructured data to real use cases.
 """
-recent_work = """Currently exploring LLM fine-tuning and retrieval techniques to improve AI-driven content discovery."""
+recent_work = """Recently, I have been focused on large language model fine-tuning and retrieval architectures, with an emphasis on grounding, evaluation, and operational reliability. I am exploring how domain-specific embeddings, overlap-aware ingestion, and structured metadata improve content discovery and reasoning quality in real systems, not just benchmarks."""
 
 cta = """I enjoy solving complex data challenges and collaborating on innovative projects. Let’s connect!"""
 
@@ -82,4 +83,5 @@ google-cloud-platform = "https://img.shields.io/badge/GCP-black?logo=google-clou
 amazon-aws = "https://img.shields.io/badge/AWS-black?logo=amazon-aws&amp;style=plastic" 
 heroku = "https://img.shields.io/badge/Heroku-black?logo=heroku&amp;style=plastic" 
 jupyter = "https://img.shields.io/badge/Jupyter Notebook-black?logo=jupyter&amp;style=plastic"
+
 googlecolab = "https://img.shields.io/badge/Google Colab-black?logo=googlecolab&amp;style=plastic"
