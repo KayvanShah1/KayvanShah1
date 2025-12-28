@@ -36,95 +36,47 @@ _Pinned repositories below reflect the work above._
 
 ## Stack
 
-**Core**  
 <p>
-  
-    <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="SQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="28" style="margin: 4px;" />
-  
+    <img alt="python" src="https://img.shields.io/badge/Python-black?logo=python&amp;amp;style=plastic" /> <img alt="numpy" src="https://img.shields.io/badge/NumPy-black?logo=numpy&amp;amp;style=plastic" /> <img alt="pandas" src="https://img.shields.io/badge/Pandas-black?logo=pandas&amp;amp;style=plastic" /> <img alt="plotly" src="https://img.shields.io/badge/Plotly-black?logo=plotly&amp;amp;style=plastic" /> <img alt="folium" src="https://img.shields.io/badge/Folium-black?logo=folium&amp;amp;style=plastic" /> <img alt="scikit-learn" src="https://img.shields.io/badge/Scikit%20Learn-black?logo=scikit-learn&amp;amp;style=plastic" /> <img alt="tensorflow" src="https://img.shields.io/badge/Tensorflow-black?logo=tensorflow&amp;amp;style=plastic" /> <img alt="opencv" src="https://img.shields.io/badge/OpenCV-black?logo=opencv&amp;amp;style=plastic" /> <img alt="pytorch" src="https://img.shields.io/badge/Pytorch-black?logo=pytorch&amp;amp;style=plastic" /> <img alt="fastapi" src="https://img.shields.io/badge/FastAPI-black?logo=fastapi&amp;amp;style=plastic" /> <img alt="selenium" src="https://img.shields.io/badge/Selenium-black?logo=selenium&amp;amp;style=plastic" /> <img alt="javascript" src="https://img.shields.io/badge/JavaScript-black?logo=javascript&amp;amp;style=plastic" /> <img alt="mysql" src="https://img.shields.io/badge/MySQL-black?logo=mysql&amp;amp;style=plastic" /> <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&amp;amp;style=plastic" /> <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-black?logo=mongodb&amp;amp;style=plastic" /> <img alt="elasticsearch" src="https://img.shields.io/badge/Elasticsearch-black?logo=elasticsearch&amp;amp;style=plastic" /> <img alt="kibana" src="https://img.shields.io/badge/Kibana-black?logo=kibana&amp;amp;style=plastic" /> <img alt="git" src="https://img.shields.io/badge/Git-black?logo=git&amp;amp;style=plastic" /> <img alt="docker" src="https://img.shields.io/badge/Docker-black?logo=docker&amp;amp;style=plastic" /> <img alt="kubernetes" src="https://img.shields.io/badge/Kubernetes-black?logo=kubernetes&amp;amp;style=plastic" /> <img alt="terraform" src="https://img.shields.io/badge/Terraform-black?logo=terraform&amp;amp;style=plastic" /> <img alt="github-actions" src="https://img.shields.io/badge/Github%20Actions-black?logo=github-actions&amp;amp;style=plastic" /> <img alt="google-cloud-platform" src="https://img.shields.io/badge/GCP-black?logo=google-cloud&amp;amp;style=plastic" /> <img alt="amazon-aws" src="https://img.shields.io/badge/AWS-black?logo=amazon-aws&amp;amp;style=plastic" /> 
 </p>
-
-**Data & ML**  
-<p>
-  
-    <img alt="dbt" src="https://raw.githubusercontent.com/dbt-labs/dbt-brand/master/logos/dbt-logo.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="Dagster" src="https://raw.githubusercontent.com/dagster-io/dagster/master/docs/static/dagster-logo.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="Airflow" src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow-logo.png" height="28" style="margin: 4px;" />
-  
-    <img alt="BigQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="DuckDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="Spark" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="scikit-learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="LangChain" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" height="28" style="margin: 4px;" />
-  
-</p>
-
-**Cloud & Infra**  
-<p>
-  
-    <img alt="FastAPI" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="REST APIs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="GCP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="Terraform" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="28" style="margin: 4px;" />
-  
-    <img alt="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="28" style="margin: 4px;" />
-  
-</p>
-
-<details>
-  <summary>More (Frontend)</summary>
-  <p>
-    
-      <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="28" style="margin: 4px;" />
-    
-      <img alt="Next.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="28" style="margin: 4px;" />
-    
-      <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="28" style="margin: 4px;" />
-    
-      <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="28" style="margin: 4px;" />
-    
-  </p>
-</details>
 
 ## GitHub Activity
-<div align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=KayvanShah1&count_private=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+<div style="display: flex;" align="center">
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://streak-stats.demolab.com/?user=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
+          alt="GitHub Streak" />
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+          alt="GitHub Stats" />
 </div>
 
-<details>
-  <summary>More stats</summary>
-  <br/>
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&theme=tokyonight&hide_border=true&layout=compact" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=-1" />
-  <!--START_SECTION:waka--><!--END_SECTION:waka-->
-</details>
+<br/>
+<div style="display: flex;" align="center">
+     <img align="center" width="48%"
+          style="margin: 20px; padding: 0 4px;"
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" 
+          alt="languages" />
+</div>
+
+<br/>
+<div style="display: flex;" align="center"> 
+    <img align="center"
+        src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=-1"
+        style="margin: 20px; padding: 0 4px;"
+        alt="Trophies" />
+</div>
 
 ## Open To
 **Open to Data Engineering, MLOps, and Platform roles (US, Remote/Hybrid). Best reached via LinkedIn or email.**
+
+<hr />
+
+<p align="center">
+    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
@@ -133,6 +85,6 @@ _Pinned repositories below reflect the work above._
 </p>
 
 <p align="center">
-  This README is generated every 24 hours.<br/>
-  Last refresh: 11:05:46 GMT+0000 (Coordinated Universal Time)
+  This <i>README</i> is generated <b>every 24 hours</b>!<br/>
+  Last refresh: 11:18:26 GMT+0000 (Coordinated Universal Time)
 </p>
