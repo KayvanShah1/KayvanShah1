@@ -9,8 +9,7 @@ on:
   schedule:
     # Runs at 12am UTC
     - cron: "0 0 * * *"
-  on:
-    push:
+  push:
 
 jobs:
   build:
@@ -41,9 +40,9 @@ jobs:
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
           ALGOLIA_INDEX: ${{ secrets.ALGOLIA_INDEX }}
 
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      # - uses: athul/waka-readme@master
+      #   with:
+      #     WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
