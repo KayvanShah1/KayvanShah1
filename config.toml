@@ -2,19 +2,23 @@
 firstName = "Kayvan"
 lastName = "Shah"
 role = "Data and ML Engineer | AI, Data Science & Cloud Computing | NLP"
-about = """I build data and ML systems that do not fall apart in production.
+about = """
+I build data and ML systems that do not fall apart in production.
 
-Most of my work sits where theory meets messy reality. Late data, broken APIs, shifting schemas, and models that need to be retrained without drama. I design pipelines and ML systems that expect these problems and keep working anyway.
+Most of my work sits where theory meets messy reality. Late data, broken APIs, shifting schemas, and models that need to be retrained without drama. I design pipelines and ML systems that anticipate these problems and continue to work anyway.
 
-I operate across data engineering, MLOps, and applied ML so I can own the full lifecycle. From ingestion and transformations to training, deployment, and monitoring. My bias is toward correctness, observability, and simple designs that scale with time, not complexity."""
+I operate across data engineering, MLOps, and applied ML, so I can own the full lifecycle. From ingestion and transformations to training, deployment, and monitoring. My bias is toward correctness, observability, and simple designs that scale with time, not complexity.
+"""
 
-what_i_do = """I design and run data pipelines that power analytics, ML, and AI products in production.
+what_i_do = """
+I design and run data pipelines that power analytics, ML, and AI products in production.
 
 I build ML and MLOps workflows that are reproducible, deployable, and easy to operate long after the first release.
 
-I use cloud infrastructure to automate orchestration, CI/CD, and system boundaries so teams spend less time fixing pipelines and more time using them.
+I utilize cloud infrastructure to automate orchestration, CI/CD, and system boundaries, enabling teams to spend less time fixing pipelines and more time utilizing them.
 
-I also build retrieval and search systems with embeddings and RAG to make large, unstructured data usable."""
+I also build retrieval and search systems with embeddings and RAG to make large, unstructured data usable.
+"""
 
 recent_work = """Currently working on LLM fine-tuning and retrieval pipelines, with a focus on domain-specific embeddings, grounding, and evaluation for real-world use."""
 
@@ -85,4 +89,5 @@ heroku = "https://img.shields.io/badge/Heroku-black?logo=heroku&amp;style=plasti
 jupyter = "https://img.shields.io/badge/Jupyter Notebook-black?logo=jupyter&amp;style=plastic"
 
 googlecolab = "https://img.shields.io/badge/Google Colab-black?logo=googlecolab&amp;style=plastic"
+
 
