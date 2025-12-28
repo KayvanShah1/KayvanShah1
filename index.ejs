@@ -1,82 +1,119 @@
 ![Header](static/github-header-image.png)
 
-<!-- <h1 align="center">👋Hey, I'm <%= meta.firstName %></h1>
-<h2 align="center"><%= meta.role %></h2> -->
+<!-- ================= HERO ================= -->
+<div align="center">
 
-<%= meta.about %>
+<h2><%= meta.headline %></h2>
 
-#### 🚀 What I Do
-<%= meta.what_i_do %>
-
-#### 💡 Recent Work
-<%= meta.recent_work %>
-
-### 📈 My GitHub Stats
-<div style="display: flex;" align="center">
-     <img align="center" width="48%"
-          style="margin: 20px; padding: 0 4px;"
-          src="https://streak-stats.demolab.com/?user=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
-          alt="GitHub Streak" />
-     <img align="center" width="48%"
-          style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
-          alt="GitHub Stats" />
-</div>
-
-<br/>
-<div style="display: flex;" align="center">
-     <img align="center" width="48%"
-          style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" 
-          alt="languages" />
-</div>
-
-<br/>
-<div style="display: flex;" align="center"> 
-    <img align="center"
-        src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=-1"
-        style="margin: 20px; padding: 0 4px;"
-        alt="Trophies" />
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka -->
-
-<!-- TECHNOLOGIES -->
-<h3>:zap: Technologies</h3>
+<p><strong><%= meta.differentiator %></strong></p>
+<p><%= meta.focus %></p>
 
 <p>
-    <% for(const [name, logo] of Object.entries(technologies)) { %><img alt="<%= name %>" src="<%= logo %>" /> <% } %>
+  <% for (const { name, url, logo } of social.slice(0, 4)) { %>
+    <a href="<%= url %>" target="_blank">
+      <img alt="<%= name %>" src="<%= logo %>" />
+    </a>
+  <% } %>
 </p>
 
-<!-- SOCIAL -->
-<h3>:milky_way: Find me</h3>
+</div>
+
+---
+
+## What I’m Known For
+<ul>
+  <% for (const item of meta.known_for) { %>
+    <li><%= item %></li>
+  <% } %>
+</ul>
+
+---
+
+## Now
+<ul>
+  <% for (const item of meta.now) { %>
+    <li><%= item %></li>
+  <% } %>
+</ul>
+
+<p><em>Pinned repositories below reflect the work above.</em></p>
+
+---
+
+## Stack
+<h4>Core</h4>
+<p>
+  <% for (const tech of technologies.core) { %>
+    <img alt="<%= tech.name %>" src="<%= tech.logo %>" />
+  <% } %>
+</p>
+
+<h4>Data & ML</h4>
+<p>
+  <% for (const tech of technologies.data) { %>
+    <img alt="<%= tech.name %>" src="<%= tech.logo %>" />
+  <% } %>
+</p>
+
+<h4>Cloud & Infra</h4>
+<p>
+  <% for (const tech of technologies.cloud) { %>
+    <img alt="<%= tech.name %>" src="<%= tech.logo %>" />
+  <% } %>
+</p>
+
+<details>
+<summary>More tools</summary>
+<p>
+  <% for (const tech of technologies.other) { %>
+    <img alt="<%= tech.name %>" src="<%= tech.logo %>" />
+  <% } %>
+</p>
+</details>
+
+---
+
+## GitHub Activity
+<div align="center">
+  <img width="48%"
+       src="https://streak-stats.demolab.com/?user=KayvanShah1&count_private=true&theme=tokyonight&hide_border=true" />
+  <img width="48%"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+<details>
+<summary>More stats</summary>
+
+<br/>
+<img width="48%"
+     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&theme=tokyonight&hide_border=true&layout=compact" />
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=-1"
+/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
+
+---
+
+## Open To
+<p><strong><%= meta.cta %></strong></p>
+
+---
 
 <p align="center">
-    <% for(const { name, url, logo } of social) { %><a href="<%= url %>" target="_blank">
-        <img alt="<%= name %>" src="<%= logo %>" />
-    </a><% } %>
-</p>
-
-### 🎯 Always Open to Discussions
-<h4><%= meta.cta %></h4>
-
-<hr />
-
-<!-- GitHub profile viewers and visitors -->
-<p align="center">
-    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
 </p>
 
 <p align="center">
-    <img src="https://github.com/KayvanShah1/KayvanShah1/actions/workflows/main.yml/badge.svg" /> 
-    <img alt="Stars" src="https://img.shields.io/github/stars/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/> 
-    <img alt="Forks" src="https://img.shields.io/github/forks/KayvanShah1/KayvanShah1?style=flat-square&labelColor=343b41"/>
+  <img src="https://github.com/KayvanShah1/KayvanShah1/actions/workflows/main.yml/badge.svg" />
 </p>
 
 <p align="center">
-    This <i>README</i> file is generated <b>every 24 hours</b>!</br>
-    Last refresh: <%= lastRunOn %><br />
+  This README is generated every 24 hours.<br/>
+  Last refresh: <%= lastRunOn %>
 </p>
-

@@ -1,93 +1,130 @@
 [meta]
-firstName = "Kayvan"
-lastName = "Shah"
-role = "Data and ML Engineer | AI, Data Science & Cloud Computing | NLP"
-about = """
-I build data and ML systems that do not fall apart in production.
+headline = "Data & ML Engineer building reliable data and ML systems"
+differentiator = "I design pipelines and models that stay correct under late data, scale, and real-world failure."
+focus = "Currently working on audit analytics, agentic backends, and production forecasting pipelines."
 
-Most of my work sits where theory meets messy reality. Late data, broken APIs, shifting schemas, and models that need to be retrained without drama. I design pipelines and ML systems that anticipate these problems and continue to work anyway.
+known_for = [
+  "Designing ingestion and modeling systems for messy, high-volume event data",
+  "Production ML and LLM workflows with evaluation, monitoring, and deployment hygiene",
+  "Resilient integrations handling rate limits, backfills, schema drift, and retries"
+]
 
-I operate across data engineering, MLOps, and applied ML, so I can own the full lifecycle. From ingestion and transformations to training, deployment, and monitoring. My bias is toward correctness, observability, and simple designs that scale with time, not complexity.
-"""
+now = [
+  "Building a Google Workspace audit analytics pipeline with overlap-safe ingestion",
+  "Developing agentic backend workflows using LLMs",
+  "Writing about real-world data failures and system design tradeoffs"
+]
 
-what_i_do = """
-I design and run data pipelines that power analytics, ML, and AI products in production.
+cta = "Open to Data Engineering, MLOps, and Platform roles (US, Remote/Hybrid). Best reached via LinkedIn or email."
 
-I build ML and MLOps workflows that are reproducible, deployable, and easy to operate long after the first release.
 
-I utilize cloud infrastructure to automate orchestration, CI/CD, and system boundaries, enabling teams to spend less time fixing pipelines and more time utilizing them.
-
-I also build retrieval and search systems with embeddings and RAG to make large, unstructured data usable.
-"""
-
-recent_work = """Currently working on LLM fine-tuning and retrieval pipelines, with a focus on domain-specific embeddings, grounding, and evaluation for real-world use."""
-
-cta = """I enjoy solving complex data challenges and collaborating on innovative projects. Let’s connect!"""
-
-[meta.location]
-city = "Los Angeles, California"
-country = "United States"
-logo = "https://www.flaticon.com/svg/static/icons/svg/330/330176.svg"
-
-[[social]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/kayvanshah999/"
-logo = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-
-[[social]]
-name = "github"
-url = "https://github.com/KayvanShah1"
-logo = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-
-[[social]]
-name = "gitlab"
-url = "https://gitlab.com/kayvanshah1"
-logo = "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
-
-[[social]]
-name = "kaggle"
-url = "https://www.kaggle.com/kayvanshah"
-logo = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"
-
-[[social]]
-name = "stackoverflow"
-url = "https://stackoverflow.com/users/12639940/kayvan-shah"
-logo = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
-
+# ================= CORE =================
 [technologies]
-python = "https://img.shields.io/badge/Python-black?logo=python&amp;style=plastic"   
-numpy = "https://img.shields.io/badge/NumPy-black?logo=numpy&amp;style=plastic" 
-pandas = "https://img.shields.io/badge/Pandas-black?logo=pandas&amp;style=plastic"
-plotly = "https://img.shields.io/badge/Plotly-black?logo=plotly&amp;style=plastic"
-folium = "https://img.shields.io/badge/Folium-black?logo=folium&amp;style=plastic"
-scikit-learn = "https://img.shields.io/badge/Scikit%20Learn-black?logo=scikit-learn&amp;style=plastic" 
-tensorflow = "https://img.shields.io/badge/Tensorflow-black?logo=tensorflow&amp;style=plastic"
-opencv = "https://img.shields.io/badge/OpenCV-black?logo=opencv&amp;style=plastic"
-pytorch = "https://img.shields.io/badge/Pytorch-black?logo=pytorch&amp;style=plastic" 
-fastapi = "https://img.shields.io/badge/FastAPI-black?logo=fastapi&amp;style=plastic"
-selenium = "https://img.shields.io/badge/Selenium-black?logo=selenium&amp;style=plastic" 
-django = "https://img.shields.io/badge/Django-black?logo=django&amp;style=plastic" 
-html5 = "https://img.shields.io/badge/HTML5-black?logo=html5&amp;style=plastic"
-css3 = "https://img.shields.io/badge/CSS3-black?logo=css3&amp;style=plastic"
-javascript = "https://img.shields.io/badge/JavaScript-black?logo=javascript&amp;style=plastic"
-mysql = "https://img.shields.io/badge/MySQL-black?logo=mysql&amp;style=plastic"
-postgresql = "https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&amp;style=plastic"
-mongodb = "https://img.shields.io/badge/MongoDB-black?logo=mongodb&amp;style=plastic"
-elasticsearch = "https://img.shields.io/badge/Elasticsearch-black?logo=elasticsearch&amp;style=plastic"
-kibana = "https://img.shields.io/badge/Kibana-black?logo=kibana&amp;style=plastic"
-vscode = "https://img.shields.io/badge/VSCode-black?logo=visual-studio-code&amp;style=plastic" 
-chrome = "https://img.shields.io/badge/Google%20Chrome-black?logo=google-chrome&amp;style=plastic" 
-brave = "https://img.shields.io/badge/Brave-black?logo=brave&amp;style=plastic" 
-git = "https://img.shields.io/badge/Git-black?logo=git&amp;style=plastic" 
-docker = "https://img.shields.io/badge/Docker-black?logo=docker&amp;style=plastic" 
-kubernetes = "https://img.shields.io/badge/Kubernetes-black?logo=kubernetes&amp;style=plastic"
-terraform = "https://img.shields.io/badge/Terraform-black?logo=terraform&amp;style=plastic"
-github-actions = "https://img.shields.io/badge/Github%20Actions-black?logo=github-actions&amp;style=plastic" 
-google-cloud-platform = "https://img.shields.io/badge/GCP-black?logo=google-cloud&amp;style=plastic" 
-amazon-aws = "https://img.shields.io/badge/AWS-black?logo=amazon-aws&amp;style=plastic" 
-heroku = "https://img.shields.io/badge/Heroku-black?logo=heroku&amp;style=plastic" 
-jupyter = "https://img.shields.io/badge/Jupyter Notebook-black?logo=jupyter&amp;style=plastic"
 
-googlecolab = "https://img.shields.io/badge/Google Colab-black?logo=googlecolab&amp;style=plastic"
+[[technologies.core]]
+name = "Python"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+
+[[technologies.core]]
+name = "SQL"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+
+[[technologies.core]]
+name = "Git"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+
+[[technologies.core]]
+name = "Docker"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
 
 
+# ================= DATA & ML =================
+[[technologies.data]]
+name = "dbt"
+logo = "https://raw.githubusercontent.com/dbt-labs/dbt-brand/master/logos/dbt-logo.svg"
+
+[[technologies.data]]
+name = "Dagster"
+logo = "https://raw.githubusercontent.com/dagster-io/dagster/master/docs/static/dagster-logo.svg"
+
+[[technologies.data]]
+name = "Airflow"
+logo = "https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/airflow-logo.png"
+
+[[technologies.data]]
+name = "BigQuery"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+
+[[technologies.data]]
+name = "DuckDB"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/duckdb/duckdb-original.svg"
+
+[[technologies.data]]
+name = "Spark"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"
+
+[[technologies.data]]
+name = "scikit-learn"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"
+
+[[technologies.data]]
+name = "PyTorch"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg"
+
+[[technologies.data]]
+name = "LangChain"
+logo = "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg"
+
+
+# ================= BACKEND =================
+[[technologies.cloud]]
+name = "FastAPI"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+
+[[technologies.cloud]]
+name = "PostgreSQL"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"
+
+[[technologies.cloud]]
+name = "Redis"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"
+
+[[technologies.cloud]]
+name = "REST APIs"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+
+
+# ================= CLOUD & INFRA =================
+[[technologies.cloud]]
+name = "AWS"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"
+
+[[technologies.cloud]]
+name = "GCP"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg"
+
+[[technologies.cloud]]
+name = "Terraform"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"
+
+[[technologies.cloud]]
+name = "Kubernetes"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"
+
+
+# ================= FRONTEND =================
+[[technologies.other]]
+name = "React"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+
+[[technologies.other]]
+name = "Next.js"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+
+[[technologies.other]]
+name = "TypeScript"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+
+[[technologies.other]]
+name = "Tailwind CSS"
+logo = "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
