@@ -69,7 +69,7 @@ _Pinned repositories below reflect the work above._
 </div>
 
 ## Open To
-**Open to Data Engineering, MLOps, and Platform roles (US, Remote/Hybrid). Best reached via LinkedIn or email.**
+Open to Data Engineering, MLOps, and Platform roles. Best reached via LinkedIn or email.
 
 <hr />
 
@@ -86,5 +86,5 @@ _Pinned repositories below reflect the work above._
 
 <p align="center">
   This <i>README</i> is generated <b>every 24 hours</b>!<br/>
-  Last refresh: 11:18:26 GMT+0000 (Coordinated Universal Time)
+  Last refresh: 11:22:01 GMT+0000 (Coordinated Universal Time)
 </p>
