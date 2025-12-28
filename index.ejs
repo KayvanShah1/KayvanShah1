@@ -1,115 +1,75 @@
 ![Header](static/github-header-image.png)
 
-<!-- ================= HERO ================= -->
 <div align="center">
+  <h2><%= meta.headline %></h2>
+  <p><strong><%= meta.differentiator %></strong></p>
+  <p><%= meta.focus %></p>
 
-<h2><%= meta.headline %></h2>
-
-<p><strong><%= meta.differentiator %></strong></p>
-<p><%= meta.focus %></p>
-
-<p>
-  <% for (const { name, url, logo } of social.slice(0, 4)) { %>
-    <a href="<%= url %>" target="_blank">
-      <img alt="<%= name %>" src="<%= logo %>" />
-    </a>
-  <% } %>
-</p>
-
+  <p>
+    <% social.slice(0, 4).forEach(({ name, url, logo }) => { %>
+      <a href="<%= url %>" target="_blank"><img alt="<%= name %>" src="<%= logo %>" /></a>
+    <% }); %>
+  </p>
 </div>
 
----
-
 ## What I’m Known For
-<ul>
-  <% for (const item of meta.known_for) { %>
-    <li><%= item %></li>
-  <% } %>
-</ul>
-
----
+<% meta.known_for.forEach((item) => { %>- <%= item %>
+<% }); %>
 
 ## Now
-<ul>
-  <% for (const item of meta.now) { %>
-    <li><%= item %></li>
-  <% } %>
-</ul>
+<% meta.now.forEach((item) => { %>- <%= item %>
+<% }); %>
 
-<p><em>Pinned repositories below reflect the work above.</em></p>
-
----
+_Pinned repositories below reflect the work above._
 
 ## Stack
-<h4>Core</h4>
+
+**Core**  
 <p>
-  <% for (const tech of technologies.core) { %>
-    <img alt="<%= tech.name %>" src="<%= tech.logo %>" />
-  <% } %>
+  <% technologies.core.forEach((tech) => { %><img alt="<%= tech.name %>" src="<%= tech.logo %>" /> <% }); %>
 </p>
 
-<h4>Data & ML</h4>
+**Data & ML**  
 <p>
-  <% for (const tech of technologies.data) { %>
-    <img alt="<%= tech.name %>" src="<%= tech.logo %>" />
-  <% } %>
+  <% technologies.data.forEach((tech) => { %><img alt="<%= tech.name %>" src="<%= tech.logo %>" /> <% }); %>
 </p>
 
-<h4>Cloud & Infra</h4>
+**Cloud & Infra**  
 <p>
-  <% for (const tech of technologies.cloud) { %>
-    <img alt="<%= tech.name %>" src="<%= tech.logo %>" />
-  <% } %>
+  <% technologies.cloud.forEach((tech) => { %><img alt="<%= tech.name %>" src="<%= tech.logo %>" /> <% }); %>
 </p>
 
 <details>
-<summary>More tools</summary>
-<p>
-  <% for (const tech of technologies.other) { %>
-    <img alt="<%= tech.name %>" src="<%= tech.logo %>" />
-  <% } %>
-</p>
+  <summary>More (Frontend)</summary>
+  <p>
+    <% technologies.other.forEach((tech) => { %><img alt="<%= tech.name %>" src="<%= tech.logo %>" /> <% }); %>
+  </p>
 </details>
 
----
+<br/>
+<hr/>
 
 ## GitHub Activity
 <div align="center">
-  <img width="48%"
-       src="https://streak-stats.demolab.com/?user=KayvanShah1&count_private=true&theme=tokyonight&hide_border=true" />
-  <img width="48%"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=KayvanShah1&count_private=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 <details>
-<summary>More stats</summary>
-
-<br/>
-<img width="48%"
-     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&theme=tokyonight&hide_border=true&layout=compact" />
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=-1"
-/>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+  <summary>More stats</summary>
+  <br/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KayvanShah1&theme=tokyonight&hide_border=true&layout=compact" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=-1" />
+  <!--START_SECTION:waka--><!--END_SECTION:waka-->
 </details>
 
----
-
 ## Open To
-<p><strong><%= meta.cta %></strong></p>
-
----
+**<%= meta.cta %>**
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
   <img src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/KayvanShah1/KayvanShah1/actions/workflows/main.yml/badge.svg" />
 </p>
 
