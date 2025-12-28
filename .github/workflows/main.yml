@@ -9,12 +9,8 @@ on:
   schedule:
     # Runs at 12am UTC
     - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
-  commit:
-    branches:
-      - main
+  on:
+    push:
 
 jobs:
   build:
