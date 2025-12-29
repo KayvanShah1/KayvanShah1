@@ -21,16 +21,10 @@
 </p>
 
 ## What I’m Known For
-- Designing ingestion and modeling systems for messy, high-volume event data
-- Production ML and LLM workflows with evaluation, monitoring, and deployment hygiene
-- Resilient integrations handling rate limits, backfills, schema drift, and retries
-
+- Designing ingestion and modeling systems for messy, high-volume event data - Production ML and LLM workflows with evaluation, monitoring, and deployment hygiene - Resilient integrations handling rate limits, backfills, schema drift, and retries 
 
 ## Now
-- Building a Google Workspace audit analytics pipeline with overlap-safe ingestion
-- Developing agentic backend workflows using LLMs
-- Writing about real-world data failures and system design tradeoffs
-
+- Building a Google Workspace audit analytics pipeline with overlap-safe ingestion - Developing agentic backend workflows using LLMs - Writing about real-world data failures and system design tradeoffs 
 
 _Pinned repositories below reflect the work above._
 
@@ -71,13 +65,7 @@ _Pinned repositories below reflect the work above._
 ## Open To
 Open to Data Engineering, MLOps, and Platform roles. Best reached via LinkedIn or email.
 
-<hr />
-
-<p align="center">
-    <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
-</p>
-
+---
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KayvanShah1&color=blue"/>
   <img src="https://komarev.com/ghpvc/?username=KayvanShah1"/>
@@ -86,5 +74,5 @@ Open to Data Engineering, MLOps, and Platform roles. Best reached via LinkedIn o
 
 <p align="center">
   This <i>README</i> is generated <b>every 24 hours</b>!<br/>
-  Last refresh: 11:22:01 GMT+0000 (Coordinated Universal Time)
+  Last refresh: 01:43:18 GMT+0000 (Coordinated Universal Time)
 </p>
