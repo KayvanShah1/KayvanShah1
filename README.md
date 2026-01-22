@@ -32,6 +32,14 @@
 - Developing agentic backend workflows using LLMs
 - Writing about real-world data failures and system design tradeoffs
 
+## Best Works so far
+
+- LLM-powered research tooling for AI Teaching companion combining retrieval systems, experimentation workflows, and backend services
+- Geospatial satellite data pipelines surfacing mineral exploration signals from noisy remote sensing data
+- Near-real-time energy forecasting pipelines spanning SCADA + weather data ingestion, data warehousing, and ML-driven grid balancing
+- Semantic search and recommender system and data products powering infrastructure intelligence and risk assessment for institutional investments
+- OCR-driven clinical data processing pipelines transforming unstructured medical documents into usable datasets
+
 _Pinned repositories below reflect the work above._
 
 ## Stack
@@ -80,5 +88,5 @@ Open to Data Engineering, MLOps, and Platform roles. Best reached via LinkedIn o
 
 <p align="center">
   This <i>README</i> is generated <b>every 24 hours</b>!<br/>
-  Last refresh: 05:59:00 GMT+0000 (Coordinated Universal Time)
+  Last refresh: 06:16:48 GMT+0000 (Coordinated Universal Time)
 </p>
