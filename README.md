@@ -21,10 +21,22 @@
 </p>
 
 ## What I’m Known For
-- Designing ingestion and modeling systems for messy, high-volume event data - Production ML and LLM workflows with evaluation, monitoring, and deployment hygiene - Resilient integrations handling rate limits, backfills, schema drift, and retries 
+
+- Designing ingestion and modeling systems for messy, high-volume event data
+
+- Production ML and LLM workflows with evaluation, monitoring, and deployment hygiene
+
+- Resilient integrations handling rate limits, backfills, schema drift, and retries
+
 
 ## Now
-- Building a Google Workspace audit analytics pipeline with overlap-safe ingestion - Developing agentic backend workflows using LLMs - Writing about real-world data failures and system design tradeoffs 
+
+- Building a Google Workspace audit analytics pipeline with overlap-safe ingestion
+
+- Developing agentic backend workflows using LLMs
+
+- Writing about real-world data failures and system design tradeoffs
+
 
 _Pinned repositories below reflect the work above._
 
@@ -38,11 +50,11 @@ _Pinned repositories below reflect the work above._
 <div style="display: flex;" align="center">
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://streak-stats.demolab.com/?user=KayvanShah1&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" 
+          src="https://streak-stats.demolab.com/?user=KayvanShah1&theme=tokyonight&hide_border=true" 
           alt="GitHub Streak" />
      <img align="center" width="48%"
           style="margin: 20px; padding: 0 4px;"
-          src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=KayvanShah1&show_icons=true&locale=en&count_private=true&theme=tokyonight&hide_border=true"
           alt="GitHub Stats" />
 </div>
 
@@ -54,13 +66,13 @@ _Pinned repositories below reflect the work above._
           alt="languages" />
 </div>
 
-<br/>
+<!-- <br/>
 <div style="display: flex;" align="center"> 
     <img align="center"
         src="https://github-profile-trophy.vercel.app/?username=KayvanShah1&theme=tokyonight&no-frame=true&column=-1"
         style="margin: 20px; padding: 0 4px;"
         alt="Trophies" />
-</div>
+</div> -->
 
 ## Open To
 Open to Data Engineering, MLOps, and Platform roles. Best reached via LinkedIn or email.
@@ -74,5 +86,5 @@ Open to Data Engineering, MLOps, and Platform roles. Best reached via LinkedIn o
 
 <p align="center">
   This <i>README</i> is generated <b>every 24 hours</b>!<br/>
-  Last refresh: 01:46:43 GMT+0000 (Coordinated Universal Time)
+  Last refresh: 05:57:04 GMT+0000 (Coordinated Universal Time)
 </p>
