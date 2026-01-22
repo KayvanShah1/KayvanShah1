@@ -15,6 +15,14 @@ now = [
   "Writing about real-world data failures and system design tradeoffs"
 ]
 
+best_work_so_far = [
+  "LLM-powered research tooling for AI Teaching companion combining retrieval systems, experimentation workflows, and backend services",
+  "Geospatial satellite data pipelines surfacing mineral exploration signals from noisy remote sensing data",
+  "Near-real-time energy forecasting pipelines spanning SCADA + weather data ingestion, data warehousing, and ML-driven grid balancing",
+  "Semantic search and recommender system and data products powering infrastructure intelligence and risk assessment for institutional investments",
+  "OCR-driven clinical data processing pipelines transforming unstructured medical documents into usable datasets",
+]
+
 cta = "Open to Data Engineering, MLOps, and Platform roles. Best reached via LinkedIn or email."
 
 [meta.location]
