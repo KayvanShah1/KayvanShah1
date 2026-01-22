@@ -23,18 +23,14 @@
 ## What I’m Known For
 
 - Designing ingestion and modeling systems for messy, high-volume event data
-
 - Production ML and LLM workflows with evaluation, monitoring, and deployment hygiene
-
 - Resilient integrations handling rate limits, backfills, schema drift, and retries
 
 
 ## Now
 
 - Building a Google Workspace audit analytics pipeline with overlap-safe ingestion
-
 - Developing agentic backend workflows using LLMs
-
 - Writing about real-world data failures and system design tradeoffs
 
 
