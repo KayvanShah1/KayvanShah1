@@ -1,4 +1,4 @@
-![Header](static/github-header-image.png)
+![Header](static/github-header-banner.png)
 
 <div align="center">
   <h2>Data &amp; ML Engineer building reliable data and ML systems</h2>
@@ -88,5 +88,5 @@ Open to Data Engineering, MLOps, and Platform roles. Best reached via LinkedIn o
 
 <p align="center">
   This <i>README</i> is generated <b>every 24 hours</b>!<br/>
-  Last refresh: 02:40:40 GMT+0000 (Coordinated Universal Time)
+  Last refresh: 11:44:28 GMT+0000 (Coordinated Universal Time)
 </p>
